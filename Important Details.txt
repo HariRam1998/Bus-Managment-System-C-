@@ -1,0 +1,19 @@
+This  Project is a bus managment system
+
+Password is:1234
+
+In this Project
+* class
+* Abstract class
+* Inheritance
+* Exception Handling
+* Files
+
+custom Header files used are
+* classrelated.h
+* pass.h
+* design.h
+
+Important Note:
+*every time a ticket is generated a document(docx) is created for that ticket.
+*a print option comes anf if we select that print option than ,if we have a printer than it will print the document
